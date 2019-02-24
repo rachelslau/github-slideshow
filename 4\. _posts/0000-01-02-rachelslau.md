@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"what's 10 + 9?"
 Use the left arrow to go back!
